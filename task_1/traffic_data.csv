@@ -1,0 +1,7 @@
+﻿Packet size average,Packet count,Entropy measure,Flow duration,label
+10,200,0.1,5,0
+12,180,0.2,4,0
+300,50,0.9,20,1
+280,45,0.85,18,1
+15,210,0.15,6,0
+320,40,0.95,25,1
